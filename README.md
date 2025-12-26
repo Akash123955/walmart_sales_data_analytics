@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/Akash123955/walmart_sales_data_analytics/blob/main/project_pipeline.png)
 
 This project is an **end-to-end data analytics solution** built on Walmart sales data to extract meaningful business insights and present them through an interactive Tableau dashboard.
 
