@@ -1,6 +1,6 @@
 # 🛒 Walmart Data Analysis: End-to-End SQL + Python Project + Tableau
 
-## 📌 Project Overview
+##  Project Overview
 
 ![Project Pipeline](https://github.com/Akash123955/walmart_sales_data_analytics/blob/main/project_pipeline.png)
 
@@ -13,7 +13,7 @@ Unlike simple visualization projects, this solution emphasizes:
 - Clean separation between **data processing, analysis, and visualization**
 - Business-oriented insights aligned with retail decision-making
 
-## 🎯 Business Objectives
+##  Business Objectives
 Retail businesses like Walmart rely heavily on data to understand customer behavior, optimize operations, and improve profitability.
 
 The goal of this project is to answer **business-critical questions**, such as:
@@ -24,7 +24,7 @@ The goal of this project is to answer **business-critical questions**, such as:
 - Which branches are experiencing revenue decline?
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 - **Python** – Data cleaning and preprocessing  
 - **Pandas** – Data manipulation  
 - **MySQL** – Relational data storage and querying  
@@ -47,7 +47,7 @@ The goal of this project is to answer **business-critical questions**, such as:
   - Transaction date and time
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Cleaning & Preparation (Python)
 Raw Walmart data was first explored and cleaned using **Pandas**.
@@ -146,7 +146,7 @@ https://public.tableau.com/app/profile/satish.varma.vejarla8567/viz/walmartsales
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 - Built an end-to-end analytics workflow similar to real industry projects
 - Strengthened SQL skills for business-driven problem solving
 - Learned how to integrate SQL outputs with Tableau using JSON
@@ -154,7 +154,7 @@ https://public.tableau.com/app/profile/satish.varma.vejarla8567/viz/walmartsales
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Install Dependencies
 ```bash
